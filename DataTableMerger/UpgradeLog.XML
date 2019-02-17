@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DataTableMerger">
+</Property><Property Name="Solution File" Value="C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger.sln">
+</Property><Property Name="User Options File" Value="C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger.suo">
+</Property><Property Name="Date" Value="Tuesday, April 24, 2012">
+</Property><Property Name="Time" Value="7:28 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DataTableMerger.sln" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DataTableMerger.suo" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger.suo">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\DataTableMerger.csproj" Description="Project file successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\DataTableMerger.csproj">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\Form1.cs" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\Form1.Designer.cs" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\Program.cs" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\Program.cs">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\Properties\Settings.settings" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\Form1.resx" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\Properties\Resources.resx" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMerger\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="DataTableMerger" Source="DataTableMerger\DataTableMerger.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\DataTableMerger.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataTableMerger" Source="DataTableMerger\DataTableMerger.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataTableMergerLib" Source="DataTableMergerLib\DataTableMergerLib.csproj" Description="Project file successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMergerLib\DataTableMergerLib.csproj">
+</Event><Event ErrorLevel="0" Project="DataTableMergerLib" Source="DataTableMergerLib\DataTableMergeManager.cs" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMergerLib\DataTableMergeManager.cs">
+</Event><Event ErrorLevel="0" Project="DataTableMergerLib" Source="DataTableMergerLib\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Wajahat\Bioinformatics\DataTableMerger\Backup\DataTableMergerLib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="DataTableMergerLib" Source="DataTableMergerLib\DataTableMergerLib.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="DataTableMergerLib" Source="DataTableMergerLib\DataTableMergerLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataTableMergerLib" Source="DataTableMergerLib\DataTableMergerLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DataTableMerger.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DataTableMerger.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataTableMerger" Source="DataTableMerger\DataTableMerger.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataTableMergerLib" Source="DataTableMergerLib\DataTableMergerLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

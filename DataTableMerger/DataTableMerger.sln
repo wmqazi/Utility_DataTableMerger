@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableMerger", "DataTableMerger\DataTableMerger.csproj", "{EE2F796B-EAC9-45A5-9B2D-B2280E7BCDF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableMergerLib", "DataTableMergerLib\DataTableMergerLib.csproj", "{4166063C-9C4E-4536-BC4F-914A17B34DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2F796B-EAC9-45A5-9B2D-B2280E7BCDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2F796B-EAC9-45A5-9B2D-B2280E7BCDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2F796B-EAC9-45A5-9B2D-B2280E7BCDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2F796B-EAC9-45A5-9B2D-B2280E7BCDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4166063C-9C4E-4536-BC4F-914A17B34DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4166063C-9C4E-4536-BC4F-914A17B34DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4166063C-9C4E-4536-BC4F-914A17B34DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4166063C-9C4E-4536-BC4F-914A17B34DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

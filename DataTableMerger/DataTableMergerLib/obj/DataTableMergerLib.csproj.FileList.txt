@@ -1,0 +1,7 @@
+bin\Debug\DataTableMergerLib.dll
+bin\Debug\DataTableMergerLib.pdb
+bin\Debug\ProgressReporter.dll
+bin\Debug\ProgressReporter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataTableMergerLib.dll
+obj\Debug\DataTableMergerLib.pdb

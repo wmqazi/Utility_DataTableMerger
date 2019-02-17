@@ -1,0 +1,14 @@
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\obj\Debug\DataTableMerger.exe
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\obj\Debug\DataTableMerger.pdb
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\bin\Debug\DataTableMerger.exe
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\bin\Debug\DataTableMerger.pdb
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\bin\Debug\DataTableMergerLib.dll
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\bin\Debug\ProgressReporter.dll
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\bin\Debug\QDataTableSelectorDialog.dll
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\bin\Debug\DataTableMergerLib.pdb
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\bin\Debug\ProgressReporter.pdb
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\obj\Debug\ResolveAssemblyReference.cache
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\obj\Debug\DataTableMerger.Form1.resources
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\obj\Debug\DataTableMerger.Properties.Resources.resources
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMerger\obj\Debug\GenerateResource-ResGen.write.1.tlog

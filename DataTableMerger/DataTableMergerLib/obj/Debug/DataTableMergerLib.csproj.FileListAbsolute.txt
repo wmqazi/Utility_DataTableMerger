@@ -1,0 +1,7 @@
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMergerLib\bin\Debug\DataTableMergerLib.dll
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMergerLib\bin\Debug\DataTableMergerLib.pdb
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMergerLib\bin\Debug\ProgressReporter.dll
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMergerLib\bin\Debug\ProgressReporter.pdb
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMergerLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMergerLib\obj\Debug\DataTableMergerLib.dll
+C:\Wajahat\Bioinformatics\DataTableMerger\DataTableMergerLib\obj\Debug\DataTableMergerLib.pdb

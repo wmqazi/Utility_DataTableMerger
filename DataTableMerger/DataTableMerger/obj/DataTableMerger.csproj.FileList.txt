@@ -1,0 +1,13 @@
+bin\Debug\DataTableMerger.exe
+bin\Debug\DataTableMerger.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataTableMerger.Form1.resources
+obj\Debug\DataTableMerger.Properties.Resources.resources
+obj\Debug\DataTableMerger.csproj.GenerateResource.Cache
+obj\Debug\DataTableMerger.exe
+obj\Debug\DataTableMerger.pdb
+bin\Debug\QDataTableSelectorDialog.dll
+bin\Debug\DataTableMergerLib.dll
+bin\Debug\ProgressReporter.dll
+bin\Debug\DataTableMergerLib.pdb
+bin\Debug\ProgressReporter.pdb
